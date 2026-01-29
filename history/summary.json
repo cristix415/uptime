@@ -4,9 +4,9 @@
     "url": "https://www.bedstyle.ro",
     "icon": "https://icons.duckduckgo.com/ip3/www.bedstyle.ro.ico",
     "slug": "bedstyle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2401,
     "timeMonth": 2474,
     "timeYear": 2474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-29": 0
+    }
   },
   {
     "name": "Smartstyle",
