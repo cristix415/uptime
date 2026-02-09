@@ -24,17 +24,19 @@
     "url": "https://smartstyle.ro",
     "icon": "https://icons.duckduckgo.com/ip3/smartstyle.ro.ico",
     "slug": "smartstyle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1329,
-    "timeDay": 1793,
-    "timeWeek": 1297,
-    "timeMonth": 1336,
-    "timeYear": 1329,
-    "dailyMinutesDown": {}
+    "time": 1392,
+    "timeDay": 2739,
+    "timeWeek": 1595,
+    "timeMonth": 1409,
+    "timeYear": 1392,
+    "dailyMinutesDown": {
+      "2026-02-09": 0
+    }
   }
 ]
