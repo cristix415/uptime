@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bedstyle.ro.ico",
     "slug": "bedstyle",
     "status": "down",
-    "uptime": "41.32%",
+    "uptime": "41.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "41.32%",
+    "uptimeYear": "41.31%",
     "time": 3762,
     "timeDay": 0,
     "timeWeek": 19533,
@@ -22,7 +22,7 @@
       "2026-02-26": 63,
       "2026-03-08": 25,
       "2026-03-22": 636,
-      "2026-07-06": 74,
+      "2026-07-06": 129,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -136,11 +136,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartstyle.ro.ico",
     "slug": "smartstyle",
     "status": "down",
-    "uptime": "84.89%",
+    "uptime": "84.87%",
     "uptimeDay": "44.05%",
-    "uptimeWeek": "55.73%",
-    "uptimeMonth": "66.56%",
-    "uptimeYear": "84.89%",
+    "uptimeWeek": "55.19%",
+    "uptimeMonth": "66.43%",
+    "uptimeYear": "84.87%",
     "time": 3038,
     "timeDay": 16700,
     "timeWeek": 14485,
@@ -188,7 +188,7 @@
       "2026-07-03": 1440,
       "2026-07-02": 922,
       "2026-07-05": 872,
-      "2026-07-06": 0
+      "2026-07-06": 55
     }
   }
 ]
