@@ -1,7 +1,7 @@
 url: https://smartstyle.ro
-status: up
-code: 200
-responseTime: 1271
-lastUpdated: 2026-07-24T00:05:02.599Z
+status: down
+code: 502
+responseTime: 3570
+lastUpdated: 2026-07-24T11:19:04.163Z
 startTime: 2026-01-06T10:07:12.318Z
 generator: Upptime <https://github.com/upptime/upptime>
